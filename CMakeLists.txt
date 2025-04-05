@@ -9,7 +9,7 @@ project (
 add_executable (
 	${CMAKE_PROJECT_NAME}
 	"src/main.cpp"
-)
+ "src/window/window.h" "src/window/window.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET ${CMAKE_PROJECT_NAME} PROPERTY CXX_STANDARD 20)
