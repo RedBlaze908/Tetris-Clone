@@ -1,8 +1,9 @@
-## **SFML + ImGui** CMake Template
-This is a template for creating a CMake project using SFML and ImGui.
+## **Tetris Multiplayer
+This project is made only for fun and with the purpose of learn new things,
+so all the credits of the game are reserved by the owner.
 
-### Using
-Clone repository using this command:  
-```
-git clone https://github.com/Prevter/CMake_ImGui_SFML_Template.git --recursive .
-```
+My idea was simple, i wanted to recreate tetris in c++ with SFML library (2.6.1)
+and try to implement the multiplayer (Work in progress).
+
+Feel free to use some piece of the code in your project, or to take ispiration
+from what i have made.
