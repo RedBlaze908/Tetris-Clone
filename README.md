@@ -1,4 +1,4 @@
-## Tetris Multiplayer
+## Tetris Clone
 This project is made only for fun and with the purpose of learn new things,
 so all the credits of the game are reserved by the owner.
 
